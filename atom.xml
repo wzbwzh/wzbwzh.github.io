@@ -4,7 +4,7 @@
   
   <link href="/atom.xml" rel="self"/>
   <link href="http://yoursite.com/"/>
-  <updated>2015-12-28T08:55:42.000Z</updated>
+  <updated>2015-12-31T07:55:14.000Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,14 +15,36 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title><![CDATA[2015总结]]></title>
+    <link href="http://yoursite.com/2015/12/31/2015%E6%80%BB%E7%BB%93/"/>
+    <id>http://yoursite.com/2015/12/31/2015总结/</id>
+    <published>2015-12-31T07:42:26.000Z</published>
+    <updated>2015-12-31T07:55:14.000Z</updated>
+    <content type="html"><![CDATA[<p>photos:</p>
+<ul>
+<li><a href="http://wzbwzh.github.io/2015/12/31/2015图谱.png" target="_blank" rel="external">http://wzbwzh.github.io/2015/12/31/2015图谱.png</a></li>
+</ul>
+<p>2015的最后一天，总结一下今年有哪些长进。</p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>photos:</p>
+<ul>
+<li><a href="http://wzbwzh.github.io/2015/12/31/2015图谱.png" target="_blank" rel="external">http://wzbwzh.github.io/2015/]]>
+    </summary>
+    
+  </entry>
+  
+  <entry>
     <title><![CDATA[工作日记]]></title>
     <link href="http://yoursite.com/2015/12/28/%E5%B7%A5%E4%BD%9C%E6%97%A5%E8%AE%B0/"/>
     <id>http://yoursite.com/2015/12/28/工作日记/</id>
     <published>2015-12-28T08:55:42.000Z</published>
-    <updated>2015-12-28T08:55:42.000Z</updated>
-    <content type="html"></content>
+    <updated>2015-12-28T09:00:18.000Z</updated>
+    <content type="html"><![CDATA[<p>事情背景：最近公司想要采购系统满足现在的业务需要，但是研发领导认为采购后自己维护并不方便，想要自己开发，今天领导召集大家让大家表态；</p>
+]]></content>
     <summary type="html">
-    
+    <![CDATA[<p>事情背景：最近公司想要采购系统满足现在的业务需要，但是研发领导认为采购后自己维护并不方便，想要自己开发，今天领导召集大家让大家表态；</p>
+]]>
     </summary>
     
   </entry>
